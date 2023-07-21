@@ -15,4 +15,12 @@
 }
 .topbooks{
     background-color: bisque;
+    font-size: small;
+}
+.mission{
+    font-size: small;
+}
+
+td{
+    padding-left: 200px;
 }
