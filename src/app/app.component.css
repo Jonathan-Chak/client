@@ -6,7 +6,7 @@
     font-size: xx-large;
     font-weight: bold;
 }
-#bin{
+#logo{
     width: 200px;
 }
 .topbooks img{
@@ -23,4 +23,7 @@
 
 td{
     padding-left: 200px;
+}
+.highlight{
+    font-weight: bolder;
 }
