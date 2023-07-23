@@ -6,24 +6,3 @@
     font-size: xx-large;
     font-weight: bold;
 }
-#logo{
-    width: 200px;
-}
-.topbooks img{
-    margin: 30px;
-    height: 200px;
-}
-.topbooks{
-    background-color: bisque;
-    font-size: small;
-}
-.mission{
-    font-size: small;
-}
-
-td{
-    padding-left: 200px;
-}
-.highlight{
-    font-weight: bolder;
-}
